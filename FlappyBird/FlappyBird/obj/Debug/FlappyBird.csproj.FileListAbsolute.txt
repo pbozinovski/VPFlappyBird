@@ -1,0 +1,9 @@
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Pero\Desktop\Snake\FlappyBird\FlappyBird\obj\Debug\FlappyBird.FlappyBird.resources
